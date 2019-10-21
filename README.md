@@ -1,6 +1,6 @@
 # notes_app
 
-A new Flutter application.
+Notes App using SQFLITE 
 
 ## Getting Started
 
